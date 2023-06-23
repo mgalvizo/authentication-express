@@ -2,7 +2,7 @@
 
 Express app with ejs templates, MongoDb, Nodemailer and SendGrid.
 
-Implements new password, login, logout, authentication and authorization middleware, forgot/reset/change password, email template sending.
+Implements new password/login/logout, authentication and authorization middleware, forgot/reset/change password, email template sending.
 
 ## Libraries
 
